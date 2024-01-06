@@ -1,3 +1,5 @@
+<img align="center" src="https://i.pinimg.com/originals/8d/47/54/8d47545fbf4bfb9d0433db320305775e.gif" width="800" height="300" />
+
 <h3 align="center">Kotlin & C-Sharp Developer</h3>
 - 🔭 I’m currently working on **Minecraft Plugins**
 
