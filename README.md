@@ -15,8 +15,5 @@
 <div align="center">
 <a href="https://github.com/xtwqz">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xtwqz&theme=codeSTACKr" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xtwqz&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xtwqz&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xtwqz&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xtwqz&theme=codeSTACKr" height="180em" />
 </div>
